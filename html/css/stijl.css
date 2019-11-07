@@ -1,0 +1,30 @@
+header, nav {
+    font-family: Arial;
+}
+
+header, nav, footer {
+    padding: 10px;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    background-color: red;
+    text-align: center;
+}
+
+h1 {
+    border-width: 10px;
+}
+
+nav {
+    background-color: dimgray;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+    padding-right: 15px;
+}
